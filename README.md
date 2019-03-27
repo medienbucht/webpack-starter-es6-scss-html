@@ -1,5 +1,5 @@
 # webpack-starter-es6-scss-html
-Webpack starting config using babel/es6, scss and webpack server
+Webpack starting config using babel/es6, scss, postcss, autoprefixer and webpack server
 
 Run `npm install` and then `npm run start` for dev server or `npm run build` for production build.
 
